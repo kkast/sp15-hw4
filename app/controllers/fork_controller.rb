@@ -1,0 +1,2 @@
+class ForkController < ApplicationController
+end
